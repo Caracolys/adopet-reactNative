@@ -1,0 +1,33 @@
+{
+    "expo": {
+      "name": "adopet",
+      "slug": "adopet",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": "./assets/Imagem - Sid.png",
+      "splash": {
+        "image": "./assets/Imagem - Sid.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+      },
+      "updates": {
+        "fallbackToCacheTimeout": 0
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "adaptiveIcon": {
+          "foregroundImage": "./assets/Imagem - Sid.png",
+          "backgroundColor": "#FFFFFF"
+        }
+      },
+      "web": {
+        "favicon": "./assets/Imagem - Sid.png"
+      }
+    }
+  }
+  
